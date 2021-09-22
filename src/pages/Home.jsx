@@ -22,13 +22,6 @@ const Home = ({ eventType }) => {
                 <Wave className="waves" src={Waves} alt="" />
               </div>
               <br />
-              <Details
-                name={'Shubham Singh'}
-                githubURL={'https://github.com/imshubhamsingh'}
-                projectURL={'https://github.com/imshubhamsingh/15-puzzle'}
-                linkedinURL={'https://linkedin.com/in/imshubhamsingh97/'}
-                twitterURL={'https://twitter.com/imshubhamsingh_'}
-              />
             </Fragment>
           );
         }}
