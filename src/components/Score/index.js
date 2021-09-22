@@ -5,11 +5,11 @@ const Score = ({ moves, seconds }) => {
   return (
     <ScoreContainer>
       <div className="time">
-        <div className="score-title">Time</div>
+        <div className="score-title">Tiempo</div>
         <div className="time-container">{seconds}s</div>
       </div>
       <div className="move">
-        <div className="score-title">Moves</div>
+        <div className="score-title">Movimientos</div>
         <div className="move-container">{moves}</div>
       </div>
       {/* <div className="best">
