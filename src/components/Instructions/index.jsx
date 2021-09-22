@@ -52,7 +52,7 @@ const Instructions = () => {
         </span>
       </Keys>
       <GameInstruction>
-        Move tiles in grid <br /> to order them from <strong>1 to 15.</strong>
+        Mueve las fichas <br /> para ordenarlas desde el <strong>1 al 15.</strong>
       </GameInstruction>
     </GameInstructionContainer>
   );
